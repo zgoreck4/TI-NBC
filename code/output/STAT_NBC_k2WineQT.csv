@@ -1,0 +1,22 @@
+nazwa_pliku_wejsciowego;WineQT.csv
+liczba_wym_punktow;11
+l_punktow;1143
+k;2
+czas_wczytania_pliku_wej [us];40103
+czas_normalizacji [us];10.9
+calkowity_czas_sortowania [us];192451
+czas_obliczania_kNN [us];13162474
+czas_obliczania_RkNN [us];13162474
+czas_grupowania [us];1072
+czas_zapisywania_plikow_out_kNN [us];54957
+calkowity_czas_dzialania [us];115811
+calkowity_czas_dzialania-czas_zapisywania_plikow [us];60854
+l_odkrytych_grup;209
+l_odkrytych_p_szumu;310
+l_odkrytych_p_rdzeniowych;710
+l_odkrytych_p_brzegowych;123
+srednia_l_obl_odl;2284
+|TP|;17066
+|TN|;386307
+l_par_punktow;652653
+RAND;0.618051

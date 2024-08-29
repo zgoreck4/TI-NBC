@@ -1,0 +1,22 @@
+nazwa_pliku_wejsciowego;own_dataset.csv
+liczba_wym_punktow;2
+l_punktow;15
+k;3
+czas_wczytania_pliku_wej [us];528.2
+czas_normalizacji [us];1.5
+calkowity_czas_sortowania [us];15.5
+czas_obliczania_kNN [us];439.7
+czas_obliczania_RkNN [us];439.7
+czas_grupowania [us];16.2
+czas_zapisywania_plikow_out_kNN [us];3997.1
+calkowity_czas_dzialania [us];4545.9
+calkowity_czas_dzialania-czas_zapisywania_plikow [us];548.8
+l_odkrytych_grup;4
+l_odkrytych_p_szumu;1
+l_odkrytych_p_rdzeniowych;10
+l_odkrytych_p_brzegowych;4
+srednia_l_obl_odl;28
+|TP|;27
+|TN|;78
+l_par_punktow;105
+RAND;1

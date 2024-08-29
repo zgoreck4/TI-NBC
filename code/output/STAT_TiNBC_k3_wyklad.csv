@@ -1,0 +1,22 @@
+nazwa_pliku_wejsciowego;wyklad.csv
+liczba_wym_punktow;2
+l_punktow;12
+k;3
+czas_wczytania_pliku_wej [us];290.6
+czas_normalizacji [us];1.05
+calkowity_czas_sortowania [us];1.1
+czas_obliczania_kNN [us];93.1
+czas_obliczania_RkNN [us];93.1
+czas_grupowania [us];9.0
+czas_zapisywania_plikow_out_kNN [us];1877.1
+calkowity_czas_dzialania [us];2179.0
+calkowity_czas_dzialania-czas_zapisywania_plikow [us];301.9
+l_odkrytych_grup;3
+l_odkrytych_p_szumu;2
+l_odkrytych_p_rdzeniowych;8
+l_odkrytych_p_brzegowych;2
+srednia_l_obl_odl;7
+|TP|;22
+|TN|;44
+l_par_punktow;66
+RAND;1

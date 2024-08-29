@@ -1,0 +1,22 @@
+nazwa_pliku_wejsciowego;glass.csv
+liczba_wym_punktow;9
+l_punktow;214
+k;2
+czas_wczytania_pliku_wej [us];3430
+czas_normalizacji [us];3.1
+calkowity_czas_sortowania [us];5041
+czas_obliczania_kNN [us];134239
+czas_obliczania_RkNN [us];134239
+czas_grupowania [us];82
+czas_zapisywania_plikow_out_kNN [us];10267
+calkowity_czas_dzialania [us];14241
+calkowity_czas_dzialania-czas_zapisywania_plikow [us];3974
+l_odkrytych_grup;41
+l_odkrytych_p_szumu;51
+l_odkrytych_p_rdzeniowych;133
+l_odkrytych_p_brzegowych;30
+srednia_l_obl_odl;426
+|TP|;500
+|TN|;15702
+l_par_punktow;22791
+RAND;0.710895

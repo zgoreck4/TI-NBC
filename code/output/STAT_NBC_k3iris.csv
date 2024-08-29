@@ -1,0 +1,22 @@
+nazwa_pliku_wejsciowego;iris.csv
+liczba_wym_punktow;4
+l_punktow;150
+k;3
+czas_wczytania_pliku_wej [us];1835
+czas_normalizacji [us];1.3
+calkowity_czas_sortowania [us];2532
+czas_obliczania_kNN [us];63391
+czas_obliczania_RkNN [us];63391
+czas_grupowania [us];94
+czas_zapisywania_plikow_out_kNN [us];7337
+calkowity_czas_dzialania [us];9488
+calkowity_czas_dzialania-czas_zapisywania_plikow [us];2151
+l_odkrytych_grup;15
+l_odkrytych_p_szumu;33
+l_odkrytych_p_rdzeniowych;91
+l_odkrytych_p_brzegowych;26
+srednia_l_obl_odl;298
+|TP|;834
+|TN|;7123
+l_par_punktow;11175
+RAND;0.712036
